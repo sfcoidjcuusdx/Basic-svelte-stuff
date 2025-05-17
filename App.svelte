@@ -174,7 +174,7 @@
     </div>
     <div class="card">
       <h2>Trigger Exposure</h2>
-      <p>Gradually get comfortable with boredom, silence, or waiting (without reaching for a screen).</p>
+      <p>Gradually get comfortable with boredom, silence, or waiting (without reaching for a screen, of course).</p>
     </div>
   {/if}
 
@@ -185,7 +185,7 @@
       <p>Build SMART goals — specific, measurable, achievable, relevant, and time-bound. I can get rid of this if you want, Zach. </p>
     </div>
     <div class="card">
-      <h2>Create Screen-Free Rituals</h2>
+      <h2>Create Screen-Free Habits and Routines</h2>
       <p>Fill your life with new routines: mindfulness, music, creativity, movement, or connection.</p>
     </div>
     <div class="card">
