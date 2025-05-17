@@ -141,7 +141,7 @@
   {#if activeTab === "home"}
     <h1>Welcome to LoopLess</h1>
     <div class="card">
-      <h2>Take Back Control</h2>
+      <h2>Reassert Control over Your Life</h2>
       <p>LoopLess helps you break free from compulsive screen habits with personalized tools grounded in cognitive behavioral therapy (CBT).</p>
     </div>
   {/if}
@@ -170,7 +170,7 @@
     </div>
     <div class="card">
       <h2>Behavioral Experiments</h2>
-      <p>Run experimental tests to disprove the “I’ll miss out” or “I can’t function without it” myths. These can also help you grow in tandem with journaling. </p>
+      <p>Run experimental tests to disprove the notion that you will be missing out, or that you cannot handle separation from your device. These can also help you grow in tandem with journaling. </p>
     </div>
     <div class="card">
       <h2>Trigger Exposure</h2>
@@ -189,7 +189,7 @@
       <p>Fill your life with new routines: mindfulness, music, creativity, movement, or connection.</p>
     </div>
     <div class="card">
-      <h2>Track Your Progress</h2>
+      <h2>Analyze and Cherish Your Progress</h2>
       <p>Visualize your growth and celebrate every day you reclaim.</p>
     </div>
   {/if}
